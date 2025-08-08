@@ -1,52 +1,80 @@
-<h2 align="left">Hi 👋! My name is Satyam Kumar and I'm a Flutter Developer, from UP India.</h2>
+<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+<h3 align="center">🚀 Flutter Developer | Firebase Wizard | Tech Enthusiast</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+%7C+Dart+%7C+Firebase;Building+Cool+Apps+One+Line+at+a+Time!" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skkcodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skkcodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 👨‍💻 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🎓 I’m currently pursuing **BCA** from *United University*
+- 💡 I specialize in **Flutter App Development** and love integrating **Firebase**
+- 🔭 I’m currently working on:
+  - 📱 A **Cab Booking App** (Driver & Rider modules)
+  - 💬 A **Realtime Social Media App**
+- 🌱 Currently learning **Node.js**, **API Integration**, and advanced **State Management**
+- 📲 I build & publish production-ready apps using Flutter
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-</div>
+## 🛠️ Skills & Tools
 
-###
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF6D00?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 📈 GitHub Stats
 
-<br clear="both">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skkcodes&show_icons=true&theme=tokyonight" alt="Satyam's GitHub stats" width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=skkcodes&theme=tokyonight&hide_border=true" alt="streak" width="48%"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/skkcodes/skkcodes/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skkcodes&layout=compact&theme=tokyonight" alt="Top Languages" width="50%">
+</p>
 
-###
+---
+
+## 📌 Featured Projects
+
+Here are a few things I’ve built recently:
+
+- 🔗 [🌍 Social Media App](https://github.com/skkcodes/Social-Media)
+- 🚖 Cab Booking App (coming soon)
+- 📘 Notes App with Firebase
+- ✅ To-Do App with Clean UI
+
+🧭 Check all my projects here: [My Portfolio](http://satyamkumar-portfolio.netlify.app/)
+
+---
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar01/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumar.developer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skkcodes)
+
+---
+
+## 🧠 Fun Facts
+
+- I love creating apps that solve real-world problems 💡
+- I can’t live without dark mode 🌙
+- I believe in **learning by building** 🛠️
+- I adapt quickly to new tech and challenges 🔁
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐️<br/>
+  <img src="https://komarev.com/ghpvc/?username=skkcodes&style=flat-square&color=blue" alt="skkcodes" />
+</p>
