@@ -1,105 +1,76 @@
-<h1 align="center">Hey 👋, I'm Satyam Kumar</h1>
-<h3 align="center">🚀 Flutter Developer | Firebase Enthusiast | App Creator | BCA Graduate</h3>
+<h1 align="center">Hi there, I'm Satyam Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FF713&center=true&vCenter=true&width=435&lines=I+build+Flutter+apps+with+Firebase;Always+Learning+and+Building;Let%27s+connect+and+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Firebase+Enthusiast;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://satyamkumar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:satyamkumar.developer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/satyam-kumar-716279243" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧠 About Me
 
-- 🎓 Final Year BCA Student at [United University, Uttar Pradesh](https://uniteduniversity.edu.in/)
-- 🔥 Passionate Flutter Developer with Firebase backend
-- 📱 Built multiple apps: Social Media, Cab Booking, Notes App, and more
-- 🚀 Currently working on a multiplayer game and internship platform for students
-- 🎯 Goal: Become a professional mobile app developer and tech entrepreneur
-
----
-
-### 🛠️ Tech Stack
-
-#### 💙 Flutter & Dart
-- Firebase (Auth, Firestore, Realtime DB, Storage, Messaging)
-- Google Maps API
-- Push Notifications
-- Provider, Riverpod
-- REST API Integration
-- App Deployment (Play Store)
-
-#### 🔧 Other Skills
-- Node.js (basic backend)
-- Git & GitHub
-- Figma (UI Design)
-- Python (Basics)
-- JSON, Responsive UI, Firebase Analytics
+- 🎓 Final Year BCA Student at United University, UP
+- 💙 Passionate **Flutter Developer** who loves building fast, beautiful, and responsive mobile apps
+- ☁️ Firebase wizard: Realtime DB, Firestore, Storage, Auth, Cloud Functions
+- 🧠 Curious learner: currently exploring **AI Voice**, **Realtime Multiplayer**, **Node.js**, and **Cloud Architecture**
+- 💬 Ask me about `Flutter`, `Firebase`, `Node.js`, `API Integration`, or `Mobile App Deployment`
 
 ---
 
-### 🚀 Projects Showcase
+### 💼 My Top Projects
 
-| Project | Description | Preview |
-|--------|-------------|--------|
-| **Cab Booking App** | A full-featured ride-booking app with driver & rider interfaces using Firebase and Google Maps | 🚕 |
-| **Social Media App** | Real-time chat, follow system, profile editing, and story feature with Firebase Firestore | 📱 [Preview Video](https://satyamkumar-portfolio.netlify.app/#projects) |
-| **Notes App** | Lightweight Firebase-based notes app with CRUD operations | 📝 |
-| **Multiplayer Game (In Dev)** | Real-time multiplayer game using Flutter and Firebase | 🎮 |
-| **Internship Platform (In Dev)** | Platform for students to find internships in tech roles | 💼 |
-
-> 🔗 More Projects? Visit My [Portfolio](http://satyamkumar-portfolio.netlify.app/)
+| Project | Description | Tech Stack | Preview |
+|--------|-------------|------------|---------|
+| 🚖 **WayGo** | Ride-booking app with live driver tracking & payment features | Flutter, Firebase, Maps API | [GitHub](https://github.com/skkcodes/WayGo) |
+| 📱 **Social Media App** | Realtime chat, follow system, post sharing | Flutter, Firebase, Firestore | [GitHub](https://github.com/skkcodes/Social-Media) |
+| 📝 **Notes App** | CRUD notes with Firebase login & dark mode | Flutter, Firebase | [GitHub](https://github.com/skkcodes/Notes-App) |
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Tech Stack & Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skkcodes&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamKumar&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skkcodes&show_icons=true&theme=react&count_private=true&hide=issues" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skkcodes&layout=compact&theme=react" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skkcodes&theme=tokyonight" width="95%"/>
 </p>
 
 ---
 
-### 🏆 Certifications & Achievements
+### 📅 Daily Dev Quote
 
-- 🥇 4th Rank in 50 Days Coding Challenge by Prerogative Pointers
-- 🛡️ Cyber Surakhsha Workshop Participant
-- ✅ Completed Machine Learning Internship (15 Aug – 15 Sep 2023)
-- ✅ “How to Code” Session by Amazon Ex-employee Mr. Vikas Patel
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
 
 ---
 
-### 📫 Let's Connect!
+### ⚡ Fun Facts
 
-<p align="center">
-  <a href="mailto:satyamkumar.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/satyamkumardev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="http://satyamkumar-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-### 🎉 Fun Facts
-
-- I can't see from one eye, but I never let that stop me.
-- I’m highly adaptable and passionate about technology.
-- I love building real-world solutions with code.
-
----
-
-### 🧠 Currently Learning
-
-- Advanced Flutter UI/UX
-- Firebase Cloud Functions
-- Flutter + Node.js Integration
-- Deployment best practices
+- 🧠 Can adapt to any environment and pick up new tech fast
+- 👁️‍🗨️ Vision-impaired in one eye, but I see opportunities in every challenge
+- 🧩 I love solving real-world problems through tech
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skkcodes&theme=github_dark" />
+  Made with ❤️ by <b>Satyam Kumar</b> | skkcodes
 </p>
-
----
-
-> ⚡ “Push yourself, because no one else is going to do it for you.”
-
