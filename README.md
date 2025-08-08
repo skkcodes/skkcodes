@@ -92,7 +92,7 @@ Check them out on my [portfolio](https://satyamkumar-portfolio.netlify.app)
 Feel free to reach out:
 - 📧 satyamkumar.developer@gmail.com
 - 🌐 [Portfolio Website](https://satyamkumar-portfolio.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/satyamkumar-dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/skcodes/)
 
 ---
 
