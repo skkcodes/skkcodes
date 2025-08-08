@@ -26,9 +26,9 @@
 
 | Project | Description | Tech Stack | Preview |
 |--------|-------------|------------|---------|
-| 🚖 **WayGo** | Ride-booking app with live driver tracking & payment features | Flutter, Firebase, Maps API | [GitHub](https://github.com/skkcodes/WayGo) |
+| 🚖 **WayGo** | Ride-booking app with live driver tracking & payment features | Flutter, Firebase, Maps API | [GitHub](https://github.com/skkcodes/Cabbieo-Driver) |
 | 📱 **Social Media App** | Realtime chat, follow system, post sharing | Flutter, Firebase, Firestore | [GitHub](https://github.com/skkcodes/Social-Media) |
-| 📝 **Notes App** | CRUD notes with Firebase login & dark mode | Flutter, Firebase | [GitHub](https://github.com/skkcodes/Notes-App) |
+| 📝 **Notes App** | CRUD notes with Firebase login & dark mode | Flutter, Firebase | [GitHub](https://github.com/skkcodes/Notes) |
 
 ---
 
